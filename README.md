@@ -516,23 +516,33 @@ Hyper-local resource discovery platform for food, shelter & medical aid with men
 
 ## 🎓 Education
 
+<div align="center">
+
 | Period | Degree | Institution | Grade |
 |---|---|---|---|
 | 2025 – 2029 | B.Tech CSE (AI & ML) | Lovely Professional University | Active |
 | Graduated 2025 | Senior Secondary (12th) | The Jain International School | — |
 | Graduated 2023 | Higher Secondary (10th) | Dr. Virendra Swarup Public School | **93.4%** |
 
+</div>
+
 ---
 
 ## 🏅 Hackathons & Achievements
 
-- 🥇 **Graph-E-Thon 3.0** — Unstop
-- 🏆 **COD-A-FESTX 3.0** — Lovely Professional University
-- 🌐 **WEB-A-THON 2.0** — Lovely Professional University
-- ⚡ **COD-A-FEST 3.0** — LYNQUP PRIVATE LIMITED
-- 🎯 **EDUREV Talent Hunt 2025** — United Latino Students Association
-- 🎤 **Technical Lead** — Computing & AI Innovation Expo '26 | InnoTek '26 (500+ attendees)
-- 📘 **House Captain & Class Representative** — 93.4% board results
+<div align="center">
+
+| Award | Event |
+|---|---|
+| 🥇 1st Place | Graph-E-Thon 3.0 — Unstop |
+| 🏆 Winner | COD-A-FESTX 3.0 — Lovely Professional University |
+| 🌐 Participant | WEB-A-THON 2.0 — Lovely Professional University |
+| ⚡ Participant | COD-A-FEST 3.0 — LYNQUP PRIVATE LIMITED |
+| 🎯 Top Performer | EDUREV Talent Hunt 2025 — United Latino Students Association |
+| 🎤 Technical Lead | Computing & AI Innovation Expo '26 · InnoTek '26 (500+ attendees) |
+| 📘 House Captain | Class Representative — 93.4% board results |
+
+</div>
 
 ---
 
